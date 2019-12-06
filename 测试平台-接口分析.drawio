@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T01:41:37.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="mV5D54Zv8B2BLshhFGdL" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T01:42:43.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yHT24oDLR6XH5Sy6oKsT" version="12.3.6" type="github" pages="1">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1272" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="GI6Eey8kH-JAZbnfQxsu-151" value="测试平台流程" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="30" width="1850" height="1150" as="geometry"/>
+          <mxGeometry x="1200" y="30" width="1870" height="1150" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
