@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T01:39:32.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TyTisHzV5FZGwi_Uga-D" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T01:41:37.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="mV5D54Zv8B2BLshhFGdL" version="12.3.6" type="github" pages="1">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1272" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="GI6Eey8kH-JAZbnfQxsu-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="1" source="K4nFEV7cJwTrshQddpvN-149" target="GI6Eey8kH-JAZbnfQxsu-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1426" y="920"/>
+              <mxPoint x="1386" y="920"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -238,7 +238,7 @@
           <mxGeometry x="2930" y="350" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="GI6Eey8kH-JAZbnfQxsu-77" value="业务项目Web服务器" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1210" width="290" height="350" as="geometry"/>
+          <mxGeometry x="1205" y="1210" width="290" height="350" as="geometry"/>
         </mxCell>
         <mxCell id="GI6Eey8kH-JAZbnfQxsu-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="GI6Eey8kH-JAZbnfQxsu-77" source="GI6Eey8kH-JAZbnfQxsu-81" target="GI6Eey8kH-JAZbnfQxsu-82">
           <mxGeometry relative="1" as="geometry"/>
@@ -345,6 +345,9 @@
         </mxCell>
         <mxCell id="GI6Eey8kH-JAZbnfQxsu-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="1" source="GI6Eey8kH-JAZbnfQxsu-85" target="GI6Eey8kH-JAZbnfQxsu-93">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GI6Eey8kH-JAZbnfQxsu-151" value="测试平台流程" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="30" width="1850" height="1150" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
